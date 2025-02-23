@@ -97,9 +97,7 @@ Usage
 
 The ESP8266 will create a hotspot (SmartProgrammer).
 
-Connect to it using default credentials (SSID: SmartProgrammer, Password: 12345678).
-
-Open a browser and go to http://192.168.4.1.
+Connect to it using default credentials (SSID: SmartProgrammer, Password: 12345678)
 
 
 
